@@ -7,7 +7,7 @@ const options = {
   presence: {
     activities: [
       {
-        name: "VALORANT",
+        name: "Splatoon 3",
         type: "COMPETING"
       }
     ]
